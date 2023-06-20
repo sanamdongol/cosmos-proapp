@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProApp</string>
+    <string name="email">Email</string>
+    <string name="your_email">Your Email</string>
+</resources>
